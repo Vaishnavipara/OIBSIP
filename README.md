@@ -14,3 +14,7 @@ This project analyzes unemployment trends using a dataset that spans from May 20
 # Email Spam Detection with Machine Learning
 Overview
 This project aims to build an email spam detector using machine learning. By training a model to classify emails into spam and non-spam (ham), we can combat the issues associated with spam emails.
+
+# Sales Prediction with Machine Learning
+Overview
+Sales prediction is crucial for product-based businesses looking to forecast future revenue and optimize advertising spending. In this project, we apply machine learning to understand how different advertising channels impact sales and develop a predictive model using Linear Regression.
